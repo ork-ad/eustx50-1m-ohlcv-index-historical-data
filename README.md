@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `EUSTX50_1m.csv` (104,118 rows, `2025-12-29` → `2026-06-27`). **Full archive on [ork.ad](https://ork.ad/)** — **2,567,590** `1m` rows (~140.74 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2012-08-27` → `2026-06-27`.
+> **Sample on GitHub** · `EUSTX50_1m.csv` (105,011 rows, `2026-01-05` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **2,567,590** `1m` rows (~140.74 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2012-08-27` → `2026-06-27`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/eustx50-1m-ohlcv-index-hi
 |---|--:|---|
 | Instrument | Euro Stoxx 50 · Stock index | Euro Stoxx 50 · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 104,118 | **2,567,590** |
-| Size | 5.55 MB | ~140.74 MB |
-| Period | `2025-12-29` → `2026-06-27` | `2012-08-27` → `2026-06-27` |
+| 1m rows | 105,011 | **2,567,590** |
+| Size | 5.99 MB | ~140.74 MB |
+| Period | `2026-01-05` → `2026-07-02` | `2012-08-27` → `2026-06-27` |
 | File | `EUSTX50_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`EUSTX50_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-29T07:01:00Z | 5775.45 | 5777.46 | 5775.45 | 5775.94 | 6 |
-| 2025-12-29T07:02:00Z | 5775.94 | 5776.96 | 5775.94 | 5776.95 | 5 |
-| 2025-12-29T07:03:00Z | 5776.95 | 5776.95 | 5775.44 | 5775.45 | 5 |
-| 2025-12-29T07:04:00Z | 5775.45 | 5776.45 | 5774.45 | 5774.45 | 4 |
-| 2025-12-29T07:05:00Z | 5774.45 | 5775.45 | 5773.95 | 5774.45 | 6 |
+| 2026-01-05T07:01:00Z | 5871.129 | 5896.769 | 5871.129 | 5896.769 | 10 |
+| 2026-01-05T07:02:00Z | 5896.769 | 5896.769 | 5893.749 | 5894.269 | 6 |
+| 2026-01-05T07:03:00Z | 5894.269 | 5894.759 | 5892.749 | 5894.759 | 14 |
+| 2026-01-05T07:04:00Z | 5894.759 | 5894.759 | 5892.759 | 5894.269 | 11 |
+| 2026-01-05T07:05:00Z | 5894.269 | 5896.759 | 5893.769 | 5896.259 | 13 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T19:56:00Z | 6224.00 | 6225.50 | 6223.98 | 6225.50 | 15.00 |
-| 2026-06-26T19:57:00Z | 6225.50 | 6228.99 | 6225.50 | 6226.98 | 33.00 |
-| 2026-06-26T19:58:00Z | 6226.98 | 6227.49 | 6223.00 | 6225.50 | 71.00 |
-| 2026-06-26T19:59:00Z | 6225.50 | 6227.99 | 6221.03 | 6221.03 | 71.00 |
+| 2026-07-02T19:56:00Z | 6362.44 | 6365.94 | 6362.44 | 6364.44 | 10.00 |
+| 2026-07-02T19:57:00Z | 6364.44 | 6366.44 | 6364.44 | 6366.44 | 7.00 |
+| 2026-07-02T19:58:00Z | 6366.44 | 6369.44 | 6366.42 | 6368.93 | 49.00 |
+| 2026-07-02T19:59:00Z | 6368.93 | 6370.44 | 6366.42 | 6367.48 | 70.00 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **EUSTX50** archive on **[ork.ad](https://ork.ad/)** includes **13 
 **[→ Get the full EUSTX50 dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · EUSTX50 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · EUSTX50 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
